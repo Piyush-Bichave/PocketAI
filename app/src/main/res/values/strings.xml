@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PocketAI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="about">Welcome to PocketAI, all in one AI assistant right at your fingertips. With PocketAI you can seamlessly access ChatGpt and Bard AI in one convenient app, no need to open web browser each time to access the ChatGpt and Bard AI.</string>
+    <string name="privacy_policy">We are committed to protecting your privacy and ensuring the safty of your information while using the PocketAI mobile application</string>
+
+</resources>
